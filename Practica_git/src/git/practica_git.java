@@ -9,5 +9,6 @@ public class practica_git {
 		        int año = sc.nextInt();
 		        System.out.println(año);     
 		        System.out.println("cambio");
+		        System.out.println("cambio 2");
 	}
 }
