@@ -14,6 +14,6 @@ public class practica_git {
 
 		  System.out.println("¿Has aprobado el primer trimestre?");
 
-
+		 System.out.println("Paso 15. Cambios de codigo");
 	}
 }
